@@ -1,0 +1,13 @@
+The R software for statistical quality control and improvement
+==============================================================
+
+Free Enbis Webinar by Emilio L. Cano, 17 April 2018; 12:30 – 13:30
+
+After installing R and RStudio, run the following code to download and open
+the RStudio project in your computer:
+
+```{r, eval=FALSE}
+install.packages(c("qcc", "SixSigma", "MPCI", "usethis"))
+usethis::use_course("https://github.com/emilopezcano/SixSigma")
+```
+
