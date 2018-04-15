@@ -8,6 +8,8 @@ the RStudio project in your computer:
 
 ```{r, eval=FALSE}
 install.packages(c("qcc", "SixSigma", "MPCI", "usethis"))
-usethis::use_course("https://github.com/emilopezcano/SixSigma")
+usethis::use_course("https://goo.gl/B3RWHM")
 ```
 
+In the console, you will be asked to download a zip file. After confirmation, an RStudio 
+project with the webinar materials will be opened.
