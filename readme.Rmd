@@ -7,7 +7,7 @@ After installing R and RStudio, run the following code to download and open
 the RStudio project in your computer:
 
 ```{r, eval=FALSE}
-install.packages(c("qcc", "SixSigma", "MPCI", "usethis"))
+install.packages(c("qcc", "SixSigma", "MPCI", "usethis", "readxl"))
 usethis::use_course("https://goo.gl/B3RWHM")
 ```
 
