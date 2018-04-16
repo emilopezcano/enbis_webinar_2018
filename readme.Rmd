@@ -13,3 +13,6 @@ usethis::use_course("https://goo.gl/B3RWHM")
 
 In the console, you will be asked to download a zip file. After confirmation, an RStudio 
 project with the webinar materials will be opened.
+
+
+You can find the slides of the webinar at: http://emilio.lcano.com/p/enbiswebinar18/
