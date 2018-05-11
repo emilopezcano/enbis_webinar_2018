@@ -15,4 +15,4 @@ In the console, you will be asked to download a zip file. After confirmation, an
 project with the webinar materials will be opened.
 
 
-You can find the slides of the webinar at: http://emilio.lcano.com/p/enbiswebinar18/
+You can find the slides of the webinar at: http://emilio.lcano.com/p/enbis-webinar-18/
